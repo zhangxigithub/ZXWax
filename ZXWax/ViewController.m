@@ -8,6 +8,10 @@
 
 #import "ViewController.h"
 #import <wax/wax.h>
+#import <wax/wax_http.h>
+#import <wax/wax_json.h>
+#import <wax/wax_xml.h>
+#import <wax/wax_filesystem.h>
 
 @implementation ViewController
 

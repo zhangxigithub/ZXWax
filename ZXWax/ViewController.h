@@ -7,6 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <wax/wax.h>
+#import <wax/wax_http.h>
+#import <wax/wax_json.h>
+#import <wax/wax_xml.h>
 
 @interface ViewController : UIViewController
 @property (weak, nonatomic) IBOutlet UITextView *content;
